@@ -1,5 +1,7 @@
 # Sequential Chain for Chainer
 
+New version: [musyoku/chainer-stream](https://github.com/musyoku/chainer-stream)
+
 ### New way
 
 ```
